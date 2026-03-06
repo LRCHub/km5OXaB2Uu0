@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+  "base_artist": "My Chemical Romance",
+  "createdAt": "2026-03-06T21:32:13.526282Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/01_Na_Na_Na_(Na_Na_Na_Na_Na_Na_Na_Na_Na)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/02_Na_Na_Na_(Na_Na_Na_Na_Na_Na_Na_Na_Na)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/03_Na_Na_Na_(Na_Na_Na_Na_Na_Na_Na_Na_Na)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/04_Na_Na_Na_(Na_Na_Na_Na_Na_Na_Na_Na_Na)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/05_Na_Na_Na_(Na_Na_Na_Na_Na_Na_Na_Na_Na)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/06_Na_Na_Na_(Na_Na_Na_Na_Na_Na_Na_Na_Na)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Na Na Na (Na Na Na Na Na Na Na Na Na) [Single Version]",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/07_Na_Na_Na_(Na_Na_Na_Na_Na_Na_Na_Na_Na)_[Single_Version]_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Na Na Na (Na Na Na Na Na Na Na Na Na) [Single Version]",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/08_Na_Na_Na_(Na_Na_Na_Na_Na_Na_Na_Na_Na)_[Single_Version]_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/09_Na_Na_Na_(Na_Na_Na_Na_Na_Na_Na_Na_Na)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/10_Na_Na_Na_(Na_Na_Na_Na_Na_Na_Na_Na_Na)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/pl_01_Na_Na_Na_(Na_Na_Na_Na_Na_Na_Na_Na_Na)_My_Chemical_Romance.txt"
+    }
+  ]
+}
